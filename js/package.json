@@ -6,5 +6,10 @@
   "keywords": [
    "troll"
   ],
+  "dependencies": {
+    "coffee-script": "latest",
+    "synaptic": "latest",
+    "mnist": "latest"
+  },
   "author": "Pierre Sauvage <m.sauvage.pierre@gmail.com>"
 }
