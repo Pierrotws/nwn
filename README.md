@@ -1,4 +1,3 @@
-# NwN (/nuːn/)
+# NwN (/nuːn/) : Neural Witty Network
 
-Just to piss off David
-
+Neural Networks implementations...
